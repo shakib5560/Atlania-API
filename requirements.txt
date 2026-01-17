@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic[email]
+pydantic-settings
+python-dotenv
+sqlalchemy
+alembic
+httpx
+email-validator
+passlib[argon2]
+python-jose[cryptography]
+python-multipart
+psycopg2-binary
+authlib
+itsdangerous
+imagekitio<5.0.0
